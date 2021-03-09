@@ -1,4 +1,4 @@
-# TSCodeTalk_Gmail
+# TSCodeTalk > Gmail
 
 A repository of various Gmail Google Apps Scripts.
 
