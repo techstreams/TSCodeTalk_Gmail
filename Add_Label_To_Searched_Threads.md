@@ -6,6 +6,7 @@ This script searches email and:
 1. Creates a label *(if indicated)*
 2. Adds the label to searched threads
 3. Archives threads *(if indicated)*
+4. Marks thread as read *(if indicated)*
 
 *See [Gmail search operator documentation](https://support.google.com/mail/answer/7190?hl=en) for more information.*
 
@@ -27,7 +28,7 @@ function addLabelToSearchedThreads() {
   // Get User Label
   const userLabel = GmailApp.getUserLabelByName(label);
 
-  // Add label to searched threads and archive if indicated
+  // Add label to searched threads and archives/marks as read if indicated
   GmailApp.search(searchStr).forEach(thread => {
     thread.addLabel(userLabel);
     if (archive) {
