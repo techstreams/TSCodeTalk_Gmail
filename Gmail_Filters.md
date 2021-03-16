@@ -1,5 +1,10 @@
 # TSCodeTalk > Gmail > Filter Gmail
 
+<br>
+
+![](img/gmailfilters.png)
+
+<br>
 
 This script manages GMail Filters from a Google Sheet.
 
