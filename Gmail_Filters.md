@@ -36,7 +36,8 @@ function onOpen() {
  */
 function start() {
   deleteExistingClockTriggers();  // Delete Any Existing Time Triggers
-  ScriptApp.newTrigger('applyGmailFilters').timeBased().everyDays(1).atHour(8).create();  // Create New Time Trigger Every 1 Day near 8:00AM
+  ScriptApp.newTrigger('applyGmailFilters').timeBased()
+           .everyDays(1).atHour(8).create();  // Create New Time Trigger Every 1 Day near 8:00AM
 }
 
 /*
