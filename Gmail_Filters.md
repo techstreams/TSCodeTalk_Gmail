@@ -8,11 +8,11 @@
 
 This script manages GMail Filters from a Google Sheet.
 
-*Script runs on a daily timer near 8:00 AM.*
+👉 *Script runs on a daily timer near 8:00 AM.*
 
 ---
 
-**SETUP:**
+**SETUP:** 
 
 * Complete row of spreadsheet with filter criteria and filter actions.
 * Run ***Start*** menu to configure trigger.
