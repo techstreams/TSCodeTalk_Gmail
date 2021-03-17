@@ -1,6 +1,6 @@
 # TSCodeTalk > Gmail
 
-*If you like these free [Google Workspace Apps Script](https://developers.google.com/apps-script) resources, please consider buying me a cup of coffee!* 
+*If you enjoy my [Google Workspace Apps Script](https://developers.google.com/apps-script) work, please consider buying me a cup of coffee!* 
 
 
 [![](https://techstreams.github.io/images/bmac.svg)](https://www.buymeacoffee.com/techstreams)
