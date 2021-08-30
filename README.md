@@ -10,6 +10,7 @@
 A repository of various Gmail Google Apps Scripts.
 
 * [Add Label To Searched Threads](./Add_Label_To_Searched_Threads.md)
+* [Cleanup Email](./Cleanup_Email.md)
 * [Filter Gmail](./Gmail_Filters.md)
 * [Get Message HTML](./Get_Message_HTML.md)
 * [Move Searched Threads To Trash](./Move_Searched_Threads_To_Trash.md)
