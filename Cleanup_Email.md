@@ -5,7 +5,7 @@ This code can be used to cleanup email from a Google Sheet.
 ```js
 /*
  * Copyright Laura Taylor
- * (https://github.com/techstreams
+ * (https://github.com/techstreams/TSCodeTalk_Gmail
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
